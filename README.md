@@ -13,4 +13,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Electronic Engineer with a Master’s Degree in Artificial Intelligence
+
+As an Electronic Engineer with a passion for cutting-edge technology, I specialize in computer vision solutions within the context of the Internet of Things (IoT). My expertise lies in bridging the gap between hardware and software, creating intelligent systems that perceive and interpret visual data.
+
+🔍 Areas of Interest:
+
+Computer Vision: Leveraging deep learning techniques to extract meaningful information from images and videos.
+IoT Integration: Designing smart devices that seamlessly connect to the digital world.
+Embedded Systems: Crafting efficient and optimized solutions for resource-constrained environments.
+Machine Learning: Exploring algorithms that enable machines to learn and adapt.
+🌐 GitHub Repositories:
+
+Check out my repositories for projects related to computer vision, edge computing, and IoT applications.
+📚 Continuous Learning:
+
+I’m committed to staying at the forefront of AI advancements, attending conferences, and contributing to open-source communities.
+Feel free to connect with me on LinkedIn or explore my code repositories. Let’s collaborate and build innovative solutions together! 🚀
+
 -->
