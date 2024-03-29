@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello World! 👋
+
+**Innovating AI for the IoT Revolution!** 🚀 (M.Sc. in AI + Electronic Engineering)
+
+- 🔭 **Pioneering Resource-Efficient Computer Vision:** Striving for optimal performance with minimal power consumption!
+- ️⚡ **Inventor of the DOD Model:** A cutting-edge, lightweight depth object detector designed for compact devices.
+- 🌱 **Cultivating Precision Farming Solutions:** Committed to combating hunger with advanced technology.
+- 💬 **Passionate about Collaboration:** Your ideas and projects can spark the next big innovation. Let's connect! [Reach Out](https://www.linkedin.com/in/jaramilloh)
+
+
 
 <!--
 **Jaramilloh/Jaramilloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
