@@ -3,7 +3,9 @@
 **Innovating AI for the IoT Revolution!** 🚀 (M.Sc. in AI + Electronic Engineering)
 
 - 🔭 **Pioneering Resource-Efficient Computer Vision:** Striving for optimal performance with minimal power consumption!
-- ️⚡ **Inventor of the DOD Model:** A cutting-edge, lightweight depth object detector designed for compact devices.
+- ️⚡ **Inventor of the novel DOD Model:** A cutting-edge, lightweight depth object detector designed for compact devices.
+  - ✨ **Check out the base implementation: [Depth Object Detector](https://github.com/Jaramilloh/Depth-Object-Detector-DOD)**
+  - 🚀 🚀 🚀 **Check out the CI/CD implementation of the optimized version of DOD: [DOD-ci-cd](https://github.com/Jaramilloh/DOD-ci-cd)**
 - 🌱 **Cultivating Precision Farming Solutions:** Committed to combating hunger with advanced technology.
 - 💬 **Passionate about Collaboration:** Your ideas and projects can spark the next big innovation. Let's connect! [Reach Out](https://www.linkedin.com/in/jaramilloh)
 
